@@ -1,0 +1,14 @@
+body {
+    background-color: pink;
+}
+
+.main-body {
+    padding: 3rem;
+    margin: auto;
+    background-color: #f0f0f0;
+    max-width: 50rem;
+}
+
+h1 {
+    border-bottom: solid 2px gray;
+}
