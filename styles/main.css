@@ -69,4 +69,21 @@ body {
     h3 {
         border-bottom: solid 1px lightgray;
     }
+    table {
+        border-collapse: collapse;
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 0.5rem;
+        }
+        th {
+            background-color: #acacd9;
+        }
+        td {
+            background-color: #f0f0f0;
+        }
+        tr:nth-child(odd) td {
+            background-color: #e2e5e5;
+        }
+    }
 }
