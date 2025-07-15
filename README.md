@@ -4,6 +4,6 @@
 
 サンプル用の参考用ページを作成しました。
 
-`index.html`と、`example-article.html`を参照してください。
+`index.html`と、`example_article.html`を参照してください。
 どちらもcssを適用したものとなっています。
 
