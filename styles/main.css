@@ -19,6 +19,7 @@ body {
     padding: 1rem;
     position: sticky;
     top: 0;
+    border: 2px solid #a7a7a7;
 
     h3 {
         background-color: var(--uec-color);
@@ -26,7 +27,8 @@ body {
         text-align: center;
         padding: 0.3rem;
         font-size: medium;
-        font-weight: bold;
+        font-weight: normal;
+        border: 2px solid #a7a7a7;
     }
     ul {
         padding: 0;
@@ -58,6 +60,7 @@ body {
     border-radius: 0.5rem;
     font-size: 17px;
     line-height: 1.7;
+    border: 2px solid #a7a7a7;
     
     h2 {
         border-bottom: solid 2px gray;
